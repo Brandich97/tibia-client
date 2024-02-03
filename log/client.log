@@ -1,0 +1,247 @@
+[ 2024-02-02 14:44:02,027 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-02 14:44:02,316 ] Using spritesheet cache size of 910
+[ 2024-02-02 14:44:03,508 ] Client is started for first the time.
+[ 2024-02-02 14:44:03,825 ] Asset loading complete
+[ 2024-02-02 14:44:07,135 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-02 14:44:07,876 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-02 14:44:08,523 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-02 14:44:08,523 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-02 14:44:29,534 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 14:44:35,753 ] BattlEye: "Initialized (v1.249)"
+[ 2024-02-02 14:44:35,753 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-02-02 14:44:35,753 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-02-02 14:44:35,753 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-02-02 14:44:35,753 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-02-02 14:44:35,792 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 14:44:35,797 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:44:35,809 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:44:36,796 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 14:44:38,295 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 14:44:38,916 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 14:44:38,956 ] Disconnected from gameserver
+[ 2024-02-02 14:44:39,218 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 14:44:39,220 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:44:39,221 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:44:40,189 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 14:49:22,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 14:49:23,116 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 14:49:23,158 ] Disconnected from gameserver
+[ 2024-02-02 14:49:23,227 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 14:49:23,228 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:49:23,235 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 14:49:24,209 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 14:58:59,865 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 14:58:59,907 ] Disconnected from gameserver
+[ 2024-02-02 14:58:59,929 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:38:57,013 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-02 15:38:57,193 ] Using spritesheet cache size of 910
+[ 2024-02-02 15:38:58,310 ] Asset loading complete
+[ 2024-02-02 15:39:02,370 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:39:05,286 ] BattlEye: "Initialized (v1.249)"
+[ 2024-02-02 15:39:05,286 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-02-02 15:39:05,286 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-02-02 15:39:05,286 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-02-02 15:39:05,287 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-02-02 15:39:05,321 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 15:39:05,325 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:39:05,326 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:39:06,317 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:41:36,127 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:41:36,928 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:41:36,970 ] Disconnected from gameserver
+[ 2024-02-02 15:41:37,221 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 15:41:37,228 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:41:37,238 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:41:38,190 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:43:27,078 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:43:27,118 ] Disconnected from gameserver
+[ 2024-02-02 15:43:27,144 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:52:31,276 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-02 15:52:31,461 ] Using spritesheet cache size of 910
+[ 2024-02-02 15:52:32,534 ] Asset loading complete
+[ 2024-02-02 15:52:35,659 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:52:37,918 ] BattlEye: "Initialized (v1.249)"
+[ 2024-02-02 15:52:37,918 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-02-02 15:52:37,918 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-02-02 15:52:37,919 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-02-02 15:52:37,919 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-02-02 15:52:37,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 15:52:37,959 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:52:37,959 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:52:38,940 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:52:43,345 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 15:52:44,022 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:52:44,061 ] Disconnected from gameserver
+[ 2024-02-02 15:52:44,322 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 15:52:44,324 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:52:44,325 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:52:45,301 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:54:11,327 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:54:12,071 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:54:12,111 ] Disconnected from gameserver
+[ 2024-02-02 15:54:12,179 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 15:54:12,181 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:54:12,182 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:54:13,161 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:54:17,753 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:54:18,521 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:54:18,562 ] Disconnected from gameserver
+[ 2024-02-02 15:54:18,630 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 15:54:18,633 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:54:18,644 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:54:19,596 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:55:22,013 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:55:23,722 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:55:23,763 ] Disconnected from gameserver
+[ 2024-02-02 15:55:23,836 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 15:55:23,838 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:55:23,849 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:55:24,799 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:55:28,803 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:55:30,522 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:55:30,561 ] Disconnected from gameserver
+[ 2024-02-02 15:55:30,633 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 15:55:30,636 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:55:30,637 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:55:31,600 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:57:53,638 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 15:57:54,571 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 15:57:54,611 ] Disconnected from gameserver
+[ 2024-02-02 15:57:54,688 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 15:57:54,689 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:57:54,691 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 15:57:55,661 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:06:56,872 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:06:56,919 ] Disconnected from gameserver
+[ 2024-02-02 16:14:39,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:14:40,219 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:14:40,222 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:14:40,232 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:14:41,191 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:14:54,006 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:14:54,772 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:14:54,811 ] Disconnected from gameserver
+[ 2024-02-02 16:14:54,878 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 16:14:54,879 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:14:54,881 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:14:55,846 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:17:19,146 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:17:20,772 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:17:20,813 ] Disconnected from gameserver
+[ 2024-02-02 16:17:20,889 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 16:17:20,891 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:17:20,891 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:17:21,861 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:19:20,921 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:19:20,962 ] Disconnected from gameserver
+[ 2024-02-02 16:19:20,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:25:38,018 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:25:39,453 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:25:39,455 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:25:39,466 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:25:40,424 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:27:54,422 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:27:54,464 ] Disconnected from gameserver
+[ 2024-02-02 16:27:54,489 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:27:55,400 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:27:55,402 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:27:55,412 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:27:56,364 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:34:02,322 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:34:02,371 ] Disconnected from gameserver
+[ 2024-02-02 16:34:02,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:34:03,373 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:34:03,374 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:34:03,385 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:34:04,347 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:34:21,672 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:34:21,710 ] Disconnected from gameserver
+[ 2024-02-02 16:34:21,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:34:22,703 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:34:22,704 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:34:22,715 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:34:23,677 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:34:40,622 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:34:40,663 ] Disconnected from gameserver
+[ 2024-02-02 16:34:40,686 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:50:57,063 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:50:57,542 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:50:57,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:50:57,544 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:50:58,503 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:59:13,023 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 16:59:13,066 ] Disconnected from gameserver
+[ 2024-02-02 16:59:13,093 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 16:59:14,725 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 16:59:14,725 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:59:14,737 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 16:59:15,705 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:00:54,022 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 17:00:54,062 ] Disconnected from gameserver
+[ 2024-02-02 17:00:54,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:00:54,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 17:00:54,750 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:00:54,760 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:00:55,721 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:07:57,172 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 17:07:57,213 ] Disconnected from gameserver
+[ 2024-02-02 17:07:57,238 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:07:58,050 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Kinaz" )
+[ 2024-02-02 17:07:58,052 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:07:58,052 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:07:59,018 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:08:10,006 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:08:10,772 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 17:08:10,810 ] Disconnected from gameserver
+[ 2024-02-02 17:08:10,883 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 17:08:10,884 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:08:10,895 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:08:11,863 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:15:09,171 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-02 17:15:09,385 ] Using spritesheet cache size of 910
+[ 2024-02-02 17:15:10,543 ] Asset loading complete
+[ 2024-02-02 17:15:10,701 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:19,060 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:19,151 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:19,181 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 17:15:19,882 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:20,760 ] BattlEye: "Initialized (v1.249)"
+[ 2024-02-02 17:15:20,760 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-02-02 17:15:20,760 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-02-02 17:15:20,760 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-02-02 17:15:20,760 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-02-02 17:15:20,797 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 17:15:20,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:15:20,813 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:15:21,786 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 17:15:27,484 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:32,153 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-02 17:15:32,339 ] Using spritesheet cache size of 910
+[ 2024-02-02 17:15:33,346 ] Asset loading complete
+[ 2024-02-02 17:15:33,496 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:38,480 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:38,569 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:38,594 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 17:15:39,652 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:15:40,434 ] BattlEye: "Initialized (v1.249)"
+[ 2024-02-02 17:15:40,434 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-02-02 17:15:40,435 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-02-02 17:15:40,435 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-02-02 17:15:40,435 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-02-02 17:15:40,472 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 17:15:40,476 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:15:40,476 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:15:41,462 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 17:15:48,484 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:16:41,653 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:16:54,635 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:17:24,058 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"  was disconnected ( "The remote host closed the connection" )
+[ 2024-02-02 17:17:24,098 ] Disconnected from gameserver
+[ 2024-02-02 17:17:24,378 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:17:24,420 ] News query failed: "Unrecognized event news."
+[ 2024-02-02 17:17:25,334 ] Could not find Sound Effect ID 688
+[ 2024-02-02 17:17:25,372 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADM Brandich" )
+[ 2024-02-02 17:17:25,374 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:17:25,384 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Real War Server"
+[ 2024-02-02 17:17:26,351 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2024-02-02 17:17:40,961 ] Could not find Sound Effect ID 688
